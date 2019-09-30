@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="mF3-sp-h2Q">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="SeeFood" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="hotdogBackground" translatesAutoresizingMaskIntoConstraints="NO" id="8Zd-kR-SRv" userLabel="Static Hotdog Image">
+                                <rect key="frame" x="67.5" y="269.5" width="240" height="128"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="128" id="oQu-fi-JaW"/>
+                                    <constraint firstAttribute="width" constant="240" id="pUR-e2-CZ5"/>
+                                </constraints>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="uKO-OV-kcT" userLabel="User Chosen Image">
+                                <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="IZJ-Ap-pOP">
+                                <rect key="frame" x="0.0" y="64" width="375" height="83"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="83" id="pdO-uD-qfM"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="B9v-7m-Vmc">
+                                <rect key="frame" x="114" y="512" width="146" height="47"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.3708844483" green="0.69845598939999998" blue="0.75153547529999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                                <state key="normal" title="Share">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <integer key="value" value="15"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="shareTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="BzU-D6-zQd"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.3708844483" green="0.69845598939999998" blue="0.75153547529999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="uKO-OV-kcT" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="01b-Ee-f2W"/>
+                            <constraint firstItem="uKO-OV-kcT" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="6wQ-z1-f7Q"/>
+                            <constraint firstItem="uKO-OV-kcT" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="A6Y-fT-wl7"/>
+                            <constraint firstItem="8Zd-kR-SRv" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="G1t-9K-YWT"/>
+                            <constraint firstItem="uKO-OV-kcT" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="J5g-kD-lAv"/>
+                            <constraint firstItem="8Zd-kR-SRv" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="ZRW-2r-hhk"/>
+                            <constraint firstItem="IZJ-Ap-pOP" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="cjU-EC-Gip"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="IZJ-Ap-pOP" secondAttribute="trailing" id="nxd-h2-AQy"/>
+                            <constraint firstItem="IZJ-Ap-pOP" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="oQA-mQ-6gb"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="aL0-Cv-Aet">
+                        <barButtonItem key="rightBarButtonItem" systemItem="camera" id="4HZ-yy-tTc">
+                            <connections>
+                                <action selector="cameraTapped:" destination="BYZ-38-t0r" id="jrC-Im-l8f"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <connections>
+                        <outlet property="imageView" destination="uKO-OV-kcT" id="rZ9-8c-squ"/>
+                        <outlet property="shareButton" destination="B9v-7m-Vmc" id="Jws-sj-4hQ"/>
+                        <outlet property="topBarImageView" destination="IZJ-Ap-pOP" id="UFA-OY-xMH"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1069.5999999999999" y="104.7976011994003"/>
+        </scene>
+        <!--Item-->
+        <scene sceneID="5O2-5d-sIT">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="mF3-sp-h2Q" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Item" id="T1F-U9-NJT"/>
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="qBk-na-JQz">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <textAttributes key="titleTextAttributes">
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
+                            <color key="textColor" red="0.94550440418421544" green="1" blue="0.17522632518103409" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </textAttributes>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="Zg2-p0-Q5s"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="X7Z-3q-d6S" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="301.60000000000002" y="104.7976011994003"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="hotdogBackground" width="191" height="143"/>
+    </resources>
+</document>
