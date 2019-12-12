@@ -22,7 +22,7 @@ To see my activity visit: https://gitlab.com/prostiak
     + [Quizzler](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Quizzler/README.md)
     + [Calculator](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Calculator/README.md)
     + [ToDoList](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/ToDoList/README.md)
-    + Xylophone
+    + [Xylophone](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Xylophone/README.md)
     + Dicee
     + InspoQuotes
     + Magic 8 Ball
