@@ -25,7 +25,7 @@ To see my activity visit: https://gitlab.com/prostiak
     + [Xylophone](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Xylophone/README.md)
     + [Dicee](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Dicee/README.md)
     + [InspoQuotes](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/InspoQuotes/README.md)
-    + Magic 8 Ball
+    + [Magic 8 Ball](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Magic%208%20Ball/README.md)
 
 2. AR(augmented reality) projects
 
