@@ -1,7 +1,7 @@
 
 # Xylophone
 
-You can here different sound by taping on xylophone keys.
+You can hear different sound by taping on xylophone keys.
 
 
 
