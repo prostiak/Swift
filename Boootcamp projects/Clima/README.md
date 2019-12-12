@@ -1,7 +1,7 @@
 
 # Clima
 
-Weather app. Just type the region and know what is the weather. API request makin via Alamofire.
+Weather app. Just type the region and know what is the weather. API request making via Alamofire.
 
 
 
