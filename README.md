@@ -13,12 +13,9 @@ To see my activity visit: https://gitlab.com/prostiak
 
 1. Regular projects
 
-    + MyPlaces
-        - This helps protect your Mac from being attacked over the internet.
-    + BitcoinTicker
-        - If there IS an infection, logs are useful for determining the source.
+    + MyPlaces        
+    + BitcoinTicker    
     + Turn on stealth mode?
-        - Your Mac will not respond to ICMP ping requests or connection attempts from closed TCP and UDP networks.
 
 2. AR projects
 
