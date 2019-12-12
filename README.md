@@ -37,7 +37,7 @@ To see my activity visit: https://gitlab.com/prostiak
 3. ML(machine learning) projects
 
     + [SeeFood](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/SeeFood/README.md)
-    + Twittermenti
+    + [Twittermenti](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Twittermenti/README.md)
     + WhatFlower
 
 
