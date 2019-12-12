@@ -14,24 +14,30 @@ To see my activity visit: https://gitlab.com/prostiak
 1. Regular projects
 
     + MyPlaces        
-    + BitcoinTicker    
-    + Turn on stealth mode?
+    + Flash-Chat    
+    + Clima
+    + Destini
+    + BitcoinTicker
+    + Quizzler
+    + Calculator
+    + ToDoList
+    + Xylophone
+    + Dicee
+    + InspoQuotes
+    + Magic 8 Ball
 
-2. AR projects
+2. AR(augmented reality) projects
 
-    + Enable Gatekeeper?
-    	- Defend against malware by enforcing code signing and verifying downloaded applications before allowing them to run.
-    + Prevent automatic software whitelisting?
-        - Both built-in and downloaded software will require user approval for whitelisting.
-    + Disable Captive Portal Assistant and force login through browser on untrusted networks?
-        - Captive Portal Assistant could be triggered and direct you to a malicious site WITHOUT any user interaction.
+    + AR Ruler
+    + ARDicee
+    + Poke3D
+    + MagicPaper
 
-3. ML projects
+3. ML(machine learning) projects
 
-    + Clear language modeling metadata?
-        - This includes user spelling, typing and suggestion data.
-    + Disable language modeling data collection?
-    + Clear QuickLook metadata?
-    + Clear Downloads metadata?
-    + Disable metadata collection from Downloads?
-    + Clear SiriAnalytics database?
+    + SeeFood
+    + Twittermenti
+    + WhatFlower
+
+
+
