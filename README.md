@@ -18,7 +18,7 @@ To see my activity visit: https://gitlab.com/prostiak
     + [Flash-Chat](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Flash-Chat/README.md)    
     + [Clima](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Clima/README.md)
     + [Destini](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Destini/README.md)
-    + BitcoinTicker
+    + [BitcoinTicker](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/BitcoinTicker/README.md)
     + Quizzler
     + Calculator
     + ToDoList
