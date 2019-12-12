@@ -1,5 +1,6 @@
+![swift_pic](img/swift.jpeg)
 
-# Introduction                  ![swift_pic](img/swift.jpeg)
+# Introduction                  
 
 This is my Swift applications (open part) from bootcamps, open source, etc.
 To see my activity visit: https://gitlab.com/prostiak        
