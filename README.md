@@ -38,7 +38,7 @@ To see my activity visit: https://gitlab.com/prostiak
 
     + [SeeFood](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/SeeFood/README.md)
     + [Twittermenti](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Twittermenti/README.md)
-    + WhatFlower
+    + [WhatFlower](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/WhatFlower/README.md)
 
 
 ---
