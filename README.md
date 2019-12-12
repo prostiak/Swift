@@ -29,10 +29,10 @@ To see my activity visit: https://gitlab.com/prostiak
 
 2. AR(augmented reality) projects
 
-    + AR Ruler
-    + ARDicee
-    + Poke3D
-    + MagicPaper
+    + [AR Ruler](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/AR%20Ruler/README.md)
+    + [ARDicee](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/ARDicee/README.md)
+    + [Poke3D](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Poke3D/README.md)
+    + [MagicPaper](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/MagicPaper/README.md)
 
 3. ML(machine learning) projects
 
