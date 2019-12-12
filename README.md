@@ -14,7 +14,7 @@ To see my activity visit: https://gitlab.com/prostiak
 1. Regular projects
 
     + [MyPlaces](https://github.com/prostiak/Swift/blob/master/Other%20projects/MyPlaces/README.md)        
-    + Flash-Chat    
+    + [Flash-Chat](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Flash-Chat/README.md)    
     + Clima
     + Destini
     + BitcoinTicker
