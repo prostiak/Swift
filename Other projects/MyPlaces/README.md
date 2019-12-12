@@ -6,6 +6,7 @@ Application for adding your places. You can simply add your place of any type an
 
 
 <p float="left">
-  <img src="https://github.com/prostiak/Swift/blob/master/img/myplaces1.png" width="300" height="600" hspace="100" />
-  <img src="https://github.com/prostiak/Swift/blob/master/img/myplaces2.png" width="300" height="600" /> 
+  <img src="https://github.com/prostiak/Swift/blob/master/img/myplaces1.png" width="250" height="500" hspace="25" />
+  <img src="https://github.com/prostiak/Swift/blob/master/img/myplaces2.png" width="250" height="500" hspace="25" /> 
+  <img src="https://github.com/prostiak/Swift/blob/master/img/myplaces3.png" width="250" height="500" /> 
 </p>
