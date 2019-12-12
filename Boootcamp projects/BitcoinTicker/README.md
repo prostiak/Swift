@@ -1,7 +1,7 @@
 
 # Bitcoin Ticker
 
-Updating Bitcoin cryptocurrency rate in the real time. You can choose different stocks.
+Showing Bitcoin cryptocurrency rate. You can choose different stocks.
 
 
 
