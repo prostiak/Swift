@@ -13,7 +13,7 @@ To see my activity visit: https://gitlab.com/prostiak
 
 1. Regular projects
 
-    + MyPlaces        
+    + [MyPlaces](https://github.com/prostiak/Swift/blob/master/Other%20projects/MyPlaces/README.md)        
     + Flash-Chat    
     + Clima
     + Destini
