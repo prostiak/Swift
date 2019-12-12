@@ -20,7 +20,7 @@ To see my activity visit: https://gitlab.com/prostiak
     + [Destini](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Destini/README.md)
     + [BitcoinTicker](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/BitcoinTicker/README.md)
     + [Quizzler](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Quizzler/README.md)
-    + Calculator
+    + [Calculator](https://github.com/prostiak/Swift/blob/master/Boootcamp%20projects/Calculator/README.md)
     + ToDoList
     + Xylophone
     + Dicee
